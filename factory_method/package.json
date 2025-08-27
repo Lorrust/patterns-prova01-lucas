@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "problem": "node problem.js"
+    "notification": "node notificationSolution.js",
+    "card": "node cardSolution.js"
   },
   "author": "Ugioni",
   "license": "MIT"
