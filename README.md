@@ -1,3 +1,10 @@
-# Design Patterns Examples
+# Design Pattern Examples
 
-This repository contains examples of various design patterns implemented in JavaScript. Each design pattern features examples inside a folder, and each example features a problem file and a solution file.
+This repository contains implementations of various design patterns in JavaScript. Each design pattern is represented by a separate folder, with each folder containing two files: one illustrating the problem scenario and the other providing the solution.
+
+### Creational Patterns:
+
+- **Factory Method**
+- **Abstract Factory**
+- **Builder**
+- **Singleton**
