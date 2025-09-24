@@ -8,3 +8,5 @@ This repository contains implementations of various design patterns in JavaScrip
 - **Abstract Factory**
 - **Builder**
 - **Singleton**
+- **Adapter**
+- **Bridge**
